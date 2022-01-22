@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 ## My name is Alejandro Sauco and I am a Computer Engineering student.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alejandrosauco.prados@gmail.com)
 <!--
 **AlejandroSauco/AlejandroSauco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSauco&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroSauco&show_icons=true&theme=radical)
+<br><br>
+<a href="https://github.com/AlejandroSauco">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSauco&theme=dark">
+</a>
+<a href="https://github.com/AlejandroSauco">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlejandroSauco&show_icons=true&theme=dark&line_height=30" alt="Alejandro Sauco github stats"/>
+</a>
 
 #### :computer: Programming languages and tools: 
 <p>
